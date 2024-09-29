@@ -1,2 +1,5 @@
-# qspiders_clone
+
 QSpiders Clone
+Technologies Used:-
+-HTML
+-CSS
